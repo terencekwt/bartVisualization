@@ -1,0 +1,313 @@
+{
+    "nodes":[
+        {
+            "name":"South Hayward"
+        },
+        {
+            "name":"Fruitvale"
+        },
+        {
+            "name":"Civic Center/UN Plaza"
+        },
+        {
+            "name":"Coliseum/Oakland Airport"
+        },
+        {
+            "name":"El Cerrito Plaza"
+        },
+        {
+            "name":"West Oakland"
+        },
+        {
+            "name":"Concord"
+        },
+        {
+            "name":"North Concord/Martinez"
+        },
+        {
+            "name":"San Francisco Int'l Airport"
+        },
+        {
+            "name":"West Dublin/Pleasanton"
+        },
+        {
+            "name":"Daly City"
+        },
+        {
+            "name":"24th St. Mission"
+        },
+        {
+            "name":"San Bruno"
+        },
+        {
+            "name":"Hayward"
+        },
+        {
+            "name":"Lafayette"
+        },
+        {
+            "name":"Downtown Berkeley"
+        },
+        {
+            "name":"12th St. Oakland City Center"
+        },
+        {
+            "name":"Pleasant Hill/Contra Costa Centre"
+        },
+        {
+            "name":"Pittsburg/Bay Point"
+        },
+        {
+            "name":"Castro Valley"
+        },
+        {
+            "name":"Montgomery St."
+        },
+        {
+            "name":"Powell St."
+        },
+        {
+            "name":"Rockridge"
+        },
+        {
+            "name":"San Leandro"
+        },
+        {
+            "name":"16th St. Mission"
+        },
+        {
+            "name":"South San Francisco"
+        },
+        {
+            "name":"Balboa Park"
+        },
+        {
+            "name":"El Cerrito del Norte"
+        },
+        {
+            "name":"MacArthur"
+        },
+        {
+            "name":"Dublin/Pleasanton"
+        },
+        {
+            "name":"Embarcadero"
+        },
+        {
+            "name":"Walnut Creek"
+        },
+        {
+            "name":"Millbrae"
+        },
+        {
+            "name":"Glen Park"
+        },
+        {
+            "name":"North Berkeley"
+        },
+        {
+            "name":"Orinda"
+        },
+        {
+            "name":"Bay Fair"
+        },
+        {
+            "name":"Lake Merritt"
+        },
+        {
+            "name":"Ashby"
+        },
+        {
+            "name":"Union City"
+        },
+        {
+            "name":"19th St. Oakland"
+        },
+        {
+            "name":"Colma"
+        },
+        {
+            "name":"Richmond"
+        },
+        {
+            "name":"Fremont"
+        }
+    ],
+    "links":[
+        {
+            "source":42,
+            "target":27,
+            "value":1
+        },
+        {
+            "source":27,
+            "target":4,
+            "value":1
+        },
+        {
+            "source":4,
+            "target":34,
+            "value":1
+        },
+        {
+            "source":34,
+            "target":15,
+            "value":1
+        },
+        {
+            "source":15,
+            "target":38,
+            "value":1
+        },
+        {
+            "source":38,
+            "target":28,
+            "value":1
+        },
+        {
+            "source":28,
+            "target":40,
+            "value":1
+        },
+        {
+            "source":40,
+            "target":16,
+            "value":1
+        },
+        {
+            "source":16,
+            "target":37,
+            "value":1
+        },
+        {
+            "source":37,
+            "target":1,
+            "value":1
+        },
+        {
+            "source":1,
+            "target":3,
+            "value":1
+        },
+        {
+            "source":3,
+            "target":23,
+            "value":1
+        },
+        {
+            "source":23,
+            "target":36,
+            "value":1
+        },
+        {
+            "source":36,
+            "target":13,
+            "value":1
+        },
+        {
+            "source":13,
+            "target":0,
+            "value":1
+        },
+        {
+            "source":0,
+            "target":39,
+            "value":1
+        },
+        {
+            "source":39,
+            "target":43,
+            "value":1
+        },
+        {
+            "source":10,
+            "target":26,
+            "value":1
+        },
+        {
+            "source":26,
+            "target":33,
+            "value":1
+        },
+        {
+            "source":33,
+            "target":11,
+            "value":1
+        },
+        {
+            "source":11,
+            "target":24,
+            "value":1
+        },
+        {
+            "source":24,
+            "target":2,
+            "value":1
+        },
+        {
+            "source":2,
+            "target":21,
+            "value":1
+        },
+        {
+            "source":21,
+            "target":20,
+            "value":1
+        },
+        {
+            "source":20,
+            "target":30,
+            "value":1
+        },
+        {
+            "source":30,
+            "target":5,
+            "value":1
+        },
+        {
+            "source":5,
+            "target":37,
+            "value":1
+        },
+        {
+            "source":37,
+            "target":1,
+            "value":1
+        },
+        {
+            "source":1,
+            "target":3,
+            "value":1
+        },
+        {
+            "source":3,
+            "target":23,
+            "value":1
+        },
+        {
+            "source":23,
+            "target":36,
+            "value":1
+        },
+        {
+            "source":36,
+            "target":13,
+            "value":1
+        },
+        {
+            "source":13,
+            "target":0,
+            "value":1
+        },
+        {
+            "source":0,
+            "target":39,
+            "value":1
+        },
+        {
+            "source":39,
+            "target":43,
+            "value":1
+        }
+    ]
+}
