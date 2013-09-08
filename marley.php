@@ -1,6 +1,7 @@
 <? include('../../header.php') ?>
 
 <section class="group5">
+    <h1>Departure Visualization (Marley's Train)</h1>
     <div id="frame">
 </section>
 
